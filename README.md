@@ -2,8 +2,6 @@
 
 This is a backend api for creating questions and adding options to a specific question. Options can be voted. Questions, options can be deleted and questions can be viewed with all of their options.
 
-###  Hosted link: [Polling System API](https://polling-system-api.onrender.com/)
-###  Documentation : [API documentation](https://polling-system-api.onrender.com/api-docs/)
 
 ## Polling system Features
 
@@ -14,16 +12,6 @@ This is a backend api for creating questions and adding options to a specific qu
 - Add vote to an option
 - View a question with all of its options
 
-## Installation Guide
-
-- Clone this repository.
-- Run npm install to install all the dependencies.
-- Create an .env file in your project root folder and add your variables. See .env.sample for assistance.
-
-## Usage
-
-- Run npm start to start the application.
-- Connect to the API using Postman on port 8000.
 
 ## API Endpoints
 
